@@ -12,3 +12,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### 📁 Избранные проекты
+| Название проекта | Краткое описание | Технологии |
+|---|---|---|
+| [**s21_stringplus**](https://github.com/Xrishka/C2_s21_stringplus-2) | Team Lead. Реализовал аналог библиотеки string.h на C: 25+ функций для работы со строками. Покрыл код юнит-тестами (Check) с отчётом gcov. | `C` `Makefile` `Check` `gcov` |
+| [**s21_decimal**](https://github.com/Xrishka/C5_s21_decimal-3) | Командный проект. Реализовал тип данных для точных финансовых расчётов без ошибок округления. Покрыл код юнит-тестами (Check) с отчётом gcov. | `C` `Makefile` `Check` `gcov` |
+| [**s21_BrickGame**](https://github.com/Xrishka/C7_BrickGame_v1.0.ID_1449897-1) | Консольная игра «Тетрис» на C. Разработал игровую логику, управление и интерфейс в терминале. Покрыл код юнит-тестами (Check) с отчётом gcov. | `C` `Makefile` `Check` `gcov` |
+| [**HabitFlow**](https://github.com/Xrishka/MobileApp1) | Мобильное приложение для трекинга привычек на Kotlin. | `Kotlin` `Room` `Compose` `WorkManager`|
+| [**LeitnerCards**](https://github.com/Xrishka/MobileApp2) | Приложение-флешкарточки на Kotlin с интервальным повторением по алгоритму Лейтнера. | `Kotlin` `Room` `Compose` |
