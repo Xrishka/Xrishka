@@ -20,3 +20,8 @@
 | [**s21_BrickGame**](https://github.com/Xrishka/C7_BrickGame_v1.0.ID_1449897-1) | Консольная игра «Тетрис» на C. Разработал игровую логику, управление и интерфейс в терминале. Покрыл код юнит-тестами (Check) с отчётом gcov. | `C` `Makefile` `Check` `gcov` |
 | [**HabitFlow**](https://github.com/Xrishka/MobileApp1) | Мобильное приложение для трекинга привычек на Kotlin. | `Kotlin` `Room` `Compose` `WorkManager`|
 | [**LeitnerCards**](https://github.com/Xrishka/MobileApp2) | Приложение-флешкарточки на Kotlin с интервальным повторением по алгоритму Лейтнера. | `Kotlin` `Room` `Compose` |
+
+## 📫 Контакты
+- Email: gmatikyn12@mail.ru
+- Telegram: @Xrishka
+- LinkedIn: /in/Xrishka
